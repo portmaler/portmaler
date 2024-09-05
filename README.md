@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-I'm a Penetration Tester and Security Researcher. I love learning new things and using the latest tech to make things safer online. I'm all about making the internet a safer place for everyone.<br><br><br><br>
+I'm a Software Developer driven by a passion for turning concepts into reality. My programming prowess is complemented by strong problem-solving skills and an unwavering commitment to code quality. I thrive in collaborative environments and have a knack for mobile app development using technologies like Flutter, React Native, and Kotlin. From designing elegant user interfaces to building robust functionalities, I excel in creating seamless user experiences.<br><br><br><br>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Karimbenkhira.contact1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karim.vpn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/portmaler/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Karim_Benkhira)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yaassaasssssa/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y.ssssaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassirmoutia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yassssssss)
 
 # 💻 Tech Stack:
 
